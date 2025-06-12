@@ -1,0 +1,47 @@
+2025-06-11 22:36:58,225 ERROR: 爬虫任务出错：(1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2025-06-11 22:36:58,229 INFO: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-11 22:36:58,229 INFO: Added job "job" to job store "default"
+2025-06-11 22:36:58,229 INFO: Scheduler started
+2025-06-11 22:36:58,229 INFO: Running job "job (trigger: interval[1:00:00], next run at: 2025-06-11 22:36:58 CST)" (scheduled at 2025-06-11 22:36:58.229052+08:00)
+2025-06-11 22:36:58,236 ERROR: 爬虫任务出错：(1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2025-06-11 22:36:58,236 INFO: Job "job (trigger: interval[1:00:00], next run at: 2025-06-11 23:36:58 CST)" executed successfully
+2025-06-11 22:38:21,365 INFO: 成功插入 10 条热搜数据
+2025-06-11 22:38:21,368 INFO: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-11 22:38:21,368 INFO: Added job "job" to job store "default"
+2025-06-11 22:38:21,368 INFO: Scheduler started
+2025-06-11 22:38:21,368 INFO: Running job "job (trigger: interval[1:00:00], next run at: 2025-06-11 22:38:21 CST)" (scheduled at 2025-06-11 22:38:21.367772+08:00)
+2025-06-11 22:38:21,623 INFO: 成功插入 10 条热搜数据
+2025-06-11 22:38:21,624 INFO: Job "job (trigger: interval[1:00:00], next run at: 2025-06-11 23:38:21 CST)" executed successfully
+2025-06-11 22:42:04,991 INFO: 成功插入 10 条热搜数据
+2025-06-11 22:42:04,992 INFO: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-11 22:42:04,992 INFO: Added job "job" to job store "default"
+2025-06-11 22:42:04,992 INFO: Scheduler started
+2025-06-11 22:42:04,992 INFO: Running job "job (trigger: interval[1:00:00], next run at: 2025-06-11 22:42:04 CST)" (scheduled at 2025-06-11 22:42:04.991993+08:00)
+2025-06-11 22:42:05,279 INFO: 成功插入 10 条热搜数据
+2025-06-11 22:42:05,280 INFO: Job "job (trigger: interval[1:00:00], next run at: 2025-06-11 23:42:04 CST)" executed successfully
+2025-06-11 22:45:26,162 INFO: 成功插入 10 条热搜数据
+2025-06-11 22:45:26,162 INFO: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-11 22:45:26,163 INFO: Added job "job" to job store "default"
+2025-06-11 22:45:26,163 INFO: Scheduler started
+2025-06-11 22:45:26,163 INFO: Running job "job (trigger: interval[1:00:00], next run at: 2025-06-11 22:45:26 CST)" (scheduled at 2025-06-11 22:45:26.162857+08:00)
+2025-06-11 22:45:26,415 INFO: 成功插入 10 条热搜数据
+2025-06-11 22:45:26,415 INFO: Job "job (trigger: interval[1:00:00], next run at: 2025-06-11 23:45:26 CST)" executed successfully
+2025-06-11 22:54:26,426 INFO: 成功插入 10 条热搜数据
+2025-06-11 22:54:26,426 INFO: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-11 22:54:26,427 INFO: Added job "job" to job store "default"
+2025-06-11 22:54:26,427 INFO: Scheduler started
+2025-06-11 22:54:26,427 INFO: Running job "job (trigger: interval[1:00:00], next run at: 2025-06-11 22:54:26 CST)" (scheduled at 2025-06-11 22:54:26.426524+08:00)
+2025-06-11 22:54:26,702 INFO: 成功插入 10 条热搜数据
+2025-06-11 22:54:26,702 INFO: Job "job (trigger: interval[1:00:00], next run at: 2025-06-11 23:54:26 CST)" executed successfully
+2025-06-11 22:56:52,451 INFO: 成功插入 10 条热搜数据
+2025-06-11 22:56:52,451 INFO: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-11 22:56:52,452 INFO: Added job "job" to job store "default"
+2025-06-11 22:56:52,452 INFO: Scheduler started
+2025-06-11 22:56:52,452 INFO: Running job "job (trigger: interval[1:00:00], next run at: 2025-06-11 22:56:52 CST)" (scheduled at 2025-06-11 22:56:52.451850+08:00)
+2025-06-11 22:56:52,697 INFO: 成功插入 10 条热搜数据
+2025-06-11 22:56:52,697 INFO: Job "job (trigger: interval[1:00:00], next run at: 2025-06-11 23:56:52 CST)" executed successfully
+2025-06-11 22:57:20,494 INFO: 成功插入 10 条热搜数据
+2025-06-11 22:59:15,796 INFO: 成功插入 10 条热搜数据
+2025-06-11 23:01:28,406 INFO: 成功插入 10 条热搜数据
+2025-06-11 23:01:28,685 INFO: 成功插入 10 条热搜数据
+2025-06-11 23:01:41,454 INFO: 成功插入 10 条热搜数据
